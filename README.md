@@ -1,6 +1,6 @@
 # &#11088; Project content
-<p>This time, I will create a grid slide for mobile device. It's might be a cool trick for your website.</p>
-<p>View the tutorial here: <a href="https://youtu.be/fMeKUKa_yE0">https://youtu.be/fMeKUKa_yE0</a></p>
+<p>This time, I will create a grid slider for mobile device. It's might be a cool trick for your website.</p>
+<p>View the tutorial here: <a href="https://youtu.be/QcCx-3sx5Bo">https://youtu.be/QcCx-3sx5Bo</a></p>
 
 ![YT Mobile Touch Slide Using Grid](https://user-images.githubusercontent.com/62226062/141322079-f4c930d7-02b1-49a5-8377-873798b014f5.png)
 
